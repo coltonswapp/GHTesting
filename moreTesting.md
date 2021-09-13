@@ -24,9 +24,4 @@ Sometimes it can be desireable to add all your files but 1 single file, or maybe
   
   <u>Do not add the '<>', simply enter the filename</u>
 
-- [ ] Want to ignore multiple files? Simply add a comma! 
-
-```
-git add -- . ':!<filename>, 
-```
-
+ignoring changes here. 
